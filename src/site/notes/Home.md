@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"","updated":""}
 ---
 
 Ini adalah website yang berisi catatan pribadi seputar pengetahuan yang dirangkum. Merupakan catatan yang semoga saja menjadi catatan sejarah perkembangan belajar saya. Dokumentasi dalam website ini, semoga akan abadi dan dapat dibaca  khalayak ramai dan dapat membantu orang lain yang membutuhkan (pengetahuan).
@@ -10,18 +10,17 @@ Perjalanan pengetahuan yang dimulai dari sains, kemudian mengenal teknologi & pr
 
 Berikut adalah beberapa catatan yang sementara ini dapat saya bagikan:
 - Teknologi dan programming
-	- [Html|Belajar html untuk pemula](https://htmllearn.allnotes.link) soon at https://htmllearn.allnotes.link
-	-  [Teknologi|Seputar Teknologi](https://teknologi.allnotes.link) soon https://teknologi.allnotes.link
+	- [Programming](https://htmllearn.allnotes.link) soon at https://programming.allnotes.link
 - Filsafat
-	-  [Philosophy|Philosophy in English](https://philosophy.allnotes.link) soon https://philosophy.allnotes.link
-	-  [Filsafat|Belajar Filsafat](https://filsafat.allnotes.link) soon https://filsafat.allnotes.link
+	-  [Philosophy](https://philosophy.allnotes.link) soon https://philosophy.allnotes.link
+	-  [Filsafat](https://filsafat.allnotes.link) soon https://filsafat.allnotes.link
 - Ekonomi dan Bisnis
-	-  [Marketing|Seputar Marketing](https://marketing.allnotes.link) soon https://marketing.allnotes.link
+	-  [Marketing](https://marketing.allnotes.link) soon https://marketing.allnotes.link
 - Agama
 	-  [Tauhid|Seputar Tauhid Islam](https://tauhid.allnotes.link) soon https://tauhid.allnotes.link
 	-  [Fiqh|Seputar Fiqh Islam](https://fiqh.allnotes.link) soon https://fiqh.allnotes.link
 	- [Tafsir|Berbagai Tafsir dalam Ayat Al-Quran](https://tafsir.allnotes.link) soon https://tafsir.allnotes.link
-	-  [Islam|Seputar Opini tentang Keislaman](https://Islam.allnotes.link) soon https://islam.allnotes.link
+	-  [Islam](https://Islam.allnotes.link) soon https://islam.allnotes.link
 ## Website Lain
 - Filsafat 
 	- [Epistemania](https://epistemania.me)
