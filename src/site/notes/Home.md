@@ -20,7 +20,7 @@ Berikut adalah beberapa catatan yang sementara ini dapat saya bagikan:
 	-  ~~[Marketing](https://marketing.allnotes.link) soon https://marketing.allnotes.link
 - Agama 
 	- ~~[Tafsir|Berbagai Tafsir dalam Ayat Al-Quran](https://tafsir.allnotes.link) soon https://tafsir.allnotes.link
-	-  [Islam](https://Islam.allnotes.link) soon https://islam.allnotes.link
+	-  [Islam](https://Islam-link.allnotes.link) soon https://islam.allnotes.link
 ## Website Lain
 - Filsafat 
 	- [Epistemania](https://epistemania.me)
